@@ -25,3 +25,8 @@ This smart home system allows remote control of various appliances using a mobil
   - 2 NPN and DC motor.  
   - Keypad & Lm01602A Character LCD.  
   - Servo motor.  
+
+## Team Members
+* Mohammed Ayman Mashally   {www.linkedin.com/in/mohamed-mashaly-81007a238}
+* Mohamed hassan 
+* marwan mohamed 
